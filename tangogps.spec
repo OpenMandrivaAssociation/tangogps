@@ -1,12 +1,12 @@
 %define name tangogps
-%define version 0.9.6
-%define release %mkrel 2
+%define version 0.9.7
+%define release %mkrel 1
 
 Summary: User friendly map and GPS software
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: %{name}-%{version}.tar.gz
+Source0: http://www.tangogps.org/downloads/%{name}-%{version}.tar.gz
 Patch0: tangogps-0.9.6-stringliteral.patch
 Patch1: tangogps-0.9.6-docdir.patch
 License: GPLv2
