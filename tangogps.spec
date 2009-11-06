@@ -1,5 +1,5 @@
 %define name tangogps
-%define version 0.9.7
+%define version 0.9.9
 %define release %mkrel 1
 
 Summary: User friendly map and GPS software
