@@ -18,6 +18,8 @@ BuildRequires: gtk2-devel
 BuildRequires: libexif-devel
 BuildRequires: libGConf2-devel
 BuildRequires: sqlite3-devel
+BuildRequires: libsoup-devel
+BuildRequires: bluez-devel
 
 %description
 tangogps is an easy to use, fast and lightweight mapping application
