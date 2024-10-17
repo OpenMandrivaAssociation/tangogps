@@ -10,7 +10,7 @@ Source0: http://www.tangogps.org/downloads/%{name}-%{version}.tar.gz
 Patch1: tangogps-0.9.6-docdir.patch
 License: GPLv2
 Group: Networking/Other
-Url: http://www.tangogps.org/gps/cat/About
+Url: https://www.tangogps.org/gps/cat/About
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: curl-devel
 BuildRequires: dbus-glib-devel
